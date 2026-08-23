@@ -30,4 +30,4 @@
 ---
 
 ### 📫 Connect with Me
-* **Credly Profile:** [View Digital Badges & Transcripts](https://www.credly.com/users/felix-chisenga)[span_5]
+* **Credly Profile:** [View Digital Badges & Transcripts](https://www.credly.com/users/felix-chisenga)
