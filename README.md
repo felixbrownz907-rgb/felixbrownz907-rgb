@@ -24,7 +24,7 @@
 ### 🎓 Professional Certifications & Credentials
 * **Microsoft:** Full Stack Developer Professional Certificate, AI and ML Engineering Professional Certificate, IT Support Specialist
 * **Google (Coursera / ACE):** IT Support, Cybersecurity, Project Management, Digital Marketing & E-commerce, AI for App Deployment
-* **Cisco Networking Academy:** Junior Cybersecurity Analyst, Network Technician, Networking Basics, Cyber Threat Management, Introduction to Modern AI[span_3](start_span)[span_3](end_span)
+* **Cisco Networking Academy:** Junior Cybersecurity Analyst, Network Technician, Networking Basics, Cyber Threat Management, Introduction to Modern AI.
 * **IBM:** Machine Learning with Python (V2), Technical Support Capstone
 
 ---
